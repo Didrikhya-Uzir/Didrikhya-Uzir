@@ -35,15 +35,15 @@ In the quietude of night, I arise, sculpting databases, refining APIs, and train
 - :email: didrikhyauziriiitu@gmail.com
 
 
-#### Profile Visits 
+<!-- #### Profile Visits 
 
-[![](https://visitcount.itsvg.in/api?id=Didrikhya-UzirD&icon=4&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Didrikhya-UzirD&icon=4&color=0)](https://visitcount.itsvg.in) -->
 
 #### Github Stats
 
-![Didrikhya's github stats](https://github-readme-stats.vercel.app/api?username=Didrikhya-Uzir&count_private=true&theme=tokyonight&hide=contribs,prs)
+![](https://github-readme-stats.vercel.app/api?username=JDeepD&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Didrikhya-Uzir&theme=highcontrast)<br />
-![](https://github-readme-stats-Didrikhya-Uzir.vercel.app/api/top-langs/?username=Didrikhya-Uzir&langs_count=8&count_private=true&layout=compact&theme=highcontrast&hide_border=true&card_width=500&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![](https://github-readme-stats-jdeep.vercel.app/api/top-langs/?username=Didrikhya-Uzir&langs_count=8&count_private=true&layout=compact&theme=highcontrast&hide_border=true&card_width=500&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 </details>
 
