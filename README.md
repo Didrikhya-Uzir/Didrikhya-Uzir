@@ -1,4 +1,4 @@
-# Hi I'm Himanshu Sharma 
+# Hi I'm Didrikhya Uzir 
 
 
 When the world sleeps, I awaken, training models, fine-tuning weights, and dreaming in gradients. My caffeinated elixir is the fuel that propels me through epochs of discovery. Running is the way I reach miles. 
@@ -11,14 +11,14 @@ When the world sleeps, I awaken, training models, fine-tuning weights, and dream
 
 ### What I currently Do
 
-- 🔭 I am working as a Software Intern at VarsityPro.
+<!-- 🔭 I am working as a Software Intern at VarsityPro. -->
 - 🏫 I’m currently studing at Indian Institute of Information Technology Una(IIITU)
-- 🔭 I have worked as a Quantitative Trading Analyst for Tanmay Agarwal where I builded and back-tested Trading Strategies.
+<!-- 🔭 I have worked as a Quantitative Trading Analyst for Tanmay Agarwal where I builded and back-tested Trading Strategies. -->
 - :computer: Most used line of code `pip install lib / python run.py`
 - 🤔 Currently I’m looking for Internships.
-- 📫 How to reach me: himanshubasotiya10@gmail.com.
-- 😄 Pronouns: himanshu, Sharma.
-- ⚡ Fun fact: I Run and go to the Gym very often.
+- 📫 How to reach me: didrikhyauziriiitu@gmail.com.
+- 😄 Pronouns: Didrikhya, Uzir.
+- ⚡ Fun fact: I love playing guitar and piano and musing to some classics of Bach and Liszt.
 
 #### Tech Stack
 
@@ -32,7 +32,7 @@ When the world sleeps, I awaken, training models, fine-tuning weights, and dream
 
 #### Resume
 - :paperclip: [My Resume/CV]([[https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf](https://drive.google.com/file/d/1eiwAoJ4qbklVSkbvNKZhsfQ5xV35plAU/view?usp=sharing)])
-- :email: himanshubasotiya10@gmail.com
+- :email: didrikhyauziriiitu@gmail.com
 
 
 #### Profile Visits 
