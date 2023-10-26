@@ -37,7 +37,7 @@ In the quietude of night, I arise, sculpting databases, refining APIs, and train
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hiiimanshusharma.hiiimanshusharma&left_color=green&right_color=red)
+[![](https://visitcount.itsvg.in/api?id=Didrikhya-UzirD&icon=4&color=0)](https://visitcount.itsvg.in)
 
 #### Github Stats
 
