@@ -31,7 +31,7 @@ In the quietude of night, I arise, sculpting databases, refining APIs, and train
 
 
 #### Resume
-- :paperclip: [My Resume/CV]([[https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf](https://drive.google.com/file/d/1eiwAoJ4qbklVSkbvNKZhsfQ5xV35plAU/view?usp=sharing)])
+- :paperclip: [My Resume/CV]([[https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf](https://drive.google.com/file/d/1CLZmA9bIbELK0va0qDPxyXAwJkVRpDkF/view?usp=drive_link)])
 - :email: didrikhyauziriiitu@gmail.com
 
 
