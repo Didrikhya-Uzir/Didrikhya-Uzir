@@ -15,7 +15,7 @@ In the quietude of night, I arise, sculpting databases, refining APIs, and train
 - 🏫 I’m currently studing at Indian Institute of Information Technology Una(IIITU)
 <!-- 🔭 I have worked as a Quantitative Trading Analyst for Tanmay Agarwal where I builded and back-tested Trading Strategies. -->
 - :computer: Most used line of code `pip install lib / python run.py`
-- 🤔 Currently I’m looking for Internships.
+- 🤔 Currently I’m looking for Internships and Jobs.
 - 📫 How to reach me: didrikhyauziriiitu@gmail.com.
 - 😄 Pronouns: Didrikhya, Uzir.
 - ⚡ Fun fact: I love playing guitar and piano and musing to some classics of Bach and Liszt.
@@ -31,7 +31,7 @@ In the quietude of night, I arise, sculpting databases, refining APIs, and train
 
 
 #### Resume
-- *Resume/CV*: [:page_facing_up: View My Resume](https://drive.google.com/file/d/1CLZmA9bIbELK0va0qDPxyXAwJkVRpDkF/view?usp=drive_link)
+- *Resume/CV*: [:page_facing_up: View My Resume](https://drive.google.com/file/d/1RLtLwflTTlJiuXvIav6GfgEaQHF56_PK/view?usp=sharing)
 - :email: didrikhyauziriiitu@gmail.com
 
 
